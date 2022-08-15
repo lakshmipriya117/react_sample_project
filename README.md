@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/36601848/184651626-3240f3b2-f9c1-4204-9e5e-7267d9ac5ff4.png)
 
 # MOBILE RESPONSIVENESS<BR/>
-#ZOOM IN FEATURE IN GALLERY<BR/>
+# ZOOM IN FEATURE IN GALLERY<BR/>
 ![image](https://user-images.githubusercontent.com/36601848/184651132-91e8536c-6944-4fd6-969e-d188bc26460b.png)
 
 # TESTING<BR/>
